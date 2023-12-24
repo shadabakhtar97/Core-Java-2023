@@ -69,3 +69,40 @@ When combining values of different data types in expressions, Java automatically
 
 ## 6. Arrays
 Arrays in Java allow the storage of multiple values of the same type under a single variable name. They provide a powerful mechanism for handling collections of data.
+
+## Here's a simple "Hello, World!" program in Java:
+
+```java
+// A simple Java program that prints "Hello, World!" to the console.
+
+public class HelloWorld {
+    // The main method, where the execution of the program begins.
+    public static void main(String[] args) {
+        // Print the string "Hello, World!" to the console.
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+Explanation:
+
+- `public class HelloWorld`: This declares a class named `HelloWorld`. In Java, every application begins with at least one class, and the file name must match the class name.
+
+- `public static void main(String[] args)`: This is the entry point of the Java program. It's a special method that serves as the starting point for the execution of the program. The `String[] args` parameter allows command-line arguments to be passed to the program.
+
+- `System.out.println("Hello, World!");`: This line prints the string "Hello, World!" to the console. The `System.out.println` method is used to output text, and it automatically adds a newline character at the end.
+
+To run this program:
+
+1. Save the code in a file named `HelloWorld.java`. The file name must match the class name.
+2. Open a command prompt or terminal and navigate to the directory where the file is saved.
+3. Compile the program by running `javac HelloWorld.java`.
+4. Run the compiled program with `java HelloWorld`.
+
+You should see the output:
+
+```
+Hello, World!
+```
+
+This simple program demonstrates the basic structure of a Java program, including the use of classes, the `main` method, and the `System.out.println` statement for printing to the console.
