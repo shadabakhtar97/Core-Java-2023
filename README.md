@@ -41,6 +41,10 @@ Java is fundamentally an object-oriented programming language, emphasizing the u
 ## 2. A First Simple Program
 Creating a simple "Hello, World!" program is a traditional introduction to Java. It highlights the basic syntax and structure of a Java program.
 
+Note: Example in Exercise File
+![image](https://github.com/shadabakhtar97/Core-Java-2023/assets/43212251/c14cd84b-3fa8-40a8-8dbd-b57ac94a75d7)
+
+
 ## 3. Two Control Statements
 Control statements, such as if-else and switch, allow developers to control the flow of execution in Java programs.
 
