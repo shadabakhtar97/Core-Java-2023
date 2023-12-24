@@ -41,39 +41,6 @@ Java is fundamentally an object-oriented programming language, emphasizing the u
 ## 2. A First Simple Program
 Creating a simple "Hello, World!" program is a traditional introduction to Java. It highlights the basic syntax and structure of a Java program.
 
-Note: Example in Exercise File
-![image](https://github.com/shadabakhtar97/Core-Java-2023/assets/43212251/c14cd84b-3fa8-40a8-8dbd-b57ac94a75d7)
-
-
-## 3. Two Control Statements
-Control statements, such as if-else and switch, allow developers to control the flow of execution in Java programs.
-
-## 4. Using Blocks of Code
-Java uses curly braces ({}) to define blocks of code. This scoping mechanism is essential for organizing and controlling the visibility of variables and methods.
-
-## 5. The Java Class Libraries
-Java comes with an extensive set of class libraries providing pre-built functionality. These libraries cover areas such as networking, I/O, data structures, and graphical user interfaces, saving developers time and effort.
-
-# Data Types, Variables, and Arrays
-
-## 1. The Primitive Types
-Java supports primitive data types such as int, double, boolean, etc., for storing basic values.
-
-## 2. A Closer Look at Literals
-Literals represent constant values in Java code. Understanding different types of literals is crucial for effective programming.
-
-## 3. Variables
-Variables provide named storage locations for data in a program. They must be declared with a specific data type before use.
-
-## 4. Type Conversion and Casting
-Java supports automatic type conversion and explicit casting to ensure compatibility between different data types.
-
-## 5. Automatic Type Promotion in Expressions
-When combining values of different data types in expressions, Java automatically promotes certain types to ensure accurate calculations.
-
-## 6. Arrays
-Arrays in Java allow the storage of multiple values of the same type under a single variable name. They provide a powerful mechanism for handling collections of data.
-
 ## Here's a simple "Hello, World!" program in Java:
 
 ```java
@@ -110,3 +77,35 @@ Hello, World!
 ```
 
 This simple program demonstrates the basic structure of a Java program, including the use of classes, the `main` method, and the `System.out.println` statement for printing to the console.
+
+
+## 3. Two Control Statements
+Control statements, such as if-else and switch, allow developers to control the flow of execution in Java programs.
+
+## 4. Using Blocks of Code
+Java uses curly braces ({}) to define blocks of code. This scoping mechanism is essential for organizing and controlling the visibility of variables and methods.
+
+## 5. The Java Class Libraries
+Java comes with an extensive set of class libraries providing pre-built functionality. These libraries cover areas such as networking, I/O, data structures, and graphical user interfaces, saving developers time and effort.
+
+# Data Types, Variables, and Arrays
+
+## 1. The Primitive Types
+Java supports primitive data types such as int, double, boolean, etc., for storing basic values.
+
+## 2. A Closer Look at Literals
+Literals represent constant values in Java code. Understanding different types of literals is crucial for effective programming.
+
+## 3. Variables
+Variables provide named storage locations for data in a program. They must be declared with a specific data type before use.
+
+## 4. Type Conversion and Casting
+Java supports automatic type conversion and explicit casting to ensure compatibility between different data types.
+
+## 5. Automatic Type Promotion in Expressions
+When combining values of different data types in expressions, Java automatically promotes certain types to ensure accurate calculations.
+
+## 6. Arrays
+Arrays in Java allow the storage of multiple values of the same type under a single variable name. They provide a powerful mechanism for handling collections of data.
+
+
